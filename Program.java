@@ -1,3 +1,5 @@
+package Java_X;
+
 public class Program{
     public static void main(String[] args) {
 
@@ -10,6 +12,11 @@ public class Program{
         // pull -> baixar uma nova versão do repositorio remoto caso a sua esteja desatualizada.
 
 
+        System.out.println("Iniciando projeto");
+
+        // maitriz e datas
+
+        
 
 
 
